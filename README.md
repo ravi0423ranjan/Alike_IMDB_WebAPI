@@ -9,7 +9,7 @@ Following are the various URLs with their requests and responses:
      "ActorGender":"Female"
     }
 
-    Sample Response-
+   Sample Response-
     {
     "actorId": 4,
        "actorName": "Kriti",
@@ -27,7 +27,7 @@ Sample Request -
    "ProducerGender":"Male"
 }
 
-    Sample Response-
+Sample Response-
    {
     "producerId": 4,
     "producerName": "Kapoor",
@@ -37,6 +37,7 @@ Sample Request -
 }
 
 3.Get All Movies(GET) - https://localhost:44326/api/movie 
+
 Sample Response-
 [
     {
@@ -77,7 +78,7 @@ Sample Request -
     "ActorsId":[2,3]
 }
 
-    Sample Response-
+Sample Response-
   {
     "movieId": 10,
     "movieName": "SherShaah",
@@ -100,7 +101,7 @@ Sample Request -
     "ActorsId":[4,3]
 }
 
-    Sample Response-
+Sample Response-
   {
     "movieId": 10,
     "movieName": "SherShaah",
